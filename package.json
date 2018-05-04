@@ -1,0 +1,19 @@
+{
+  "name": "healthy_bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "botbuilder": "^3.13.1",
+    "fatsecret": "^1.0.2",
+    "node-fetch": "^1.7.3",
+    "request": "^2.83.0",
+    "request-promise": "^4.2.2",
+    "restify": "^6.3.4"
+  }
+}
